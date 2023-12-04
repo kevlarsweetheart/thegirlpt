@@ -1,0 +1,12 @@
+{
+    "attention_head_num": 6,
+    "embedding_dim": 768,
+    "decoder_layer_num": 6,
+    "max_sequence_length": 30,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "vocab_size": 1528,
+    "tokenizer": "model\\tokenizer\\pretrained_tokenizer",
+    "train_data": "input\\train_titles.txt",
+    "validation_data": "input\\validation_titles.txt"
+}
