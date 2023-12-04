@@ -1,0 +1,17 @@
+{
+    "dataset_path": "input\\all_titles.txt",
+    "output_dir": "model\\tokenizer\\pretrained_tokenizer",
+    "vocab_size": 1528,
+    "special_tokens": [
+        "[PAD]",
+        "[CLS]",
+        "[SEP]",
+        "[UNK]"
+    ],
+    "unk_token": "[UNK]",
+    "cls_token": "[CLS]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "continuing_subword_prefix": "##",
+    "padding_side": "right"
+}
