@@ -1,7 +1,7 @@
 {
     "dataset_path": "input\\all_titles.txt",
     "output_dir": "model\\tokenizer\\pretrained_tokenizer",
-    "vocab_size": 1528,
+    "vocab_size": 2500,
     "special_tokens": [
         "[PAD]",
         "[CLS]",
